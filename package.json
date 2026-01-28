@@ -1,0 +1,13 @@
+{
+  "name": "knitting-pattern-engine",
+  "version": "0.1.0",
+  "description": "Professional knitting pattern calculation engine",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/run-all-tests.js",
+    "test:gauge": "node tests/GaugeCalculator.test.js"
+  },
+  "keywords": ["knitting", "pattern", "EPS", "gauge"],
+  "author": "shumoku88-bit",
+  "license": "MIT"
+}
